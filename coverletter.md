@@ -4,7 +4,7 @@ Chennai-600116, India
 +919486975979  
 manoelangoo@gmail.com    
 
-Dear HR Manager:
+Dear HR Manager,
 
 This letter is to express my interest in your posting on Stackoverflow.com for Senior Full Stack Developer. With a Bachelor’s degree in Computer Science and hands-on experience using Java, JavaScript languages to create and implement software applications, I am confident I will be an asset to your organization.  
 I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and the success of your organization.    
